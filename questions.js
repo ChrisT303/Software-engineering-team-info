@@ -13,7 +13,7 @@ const questions = [
   },
   {
     type: 'input',
-    name: 'empName',
+    name: 'name',
     message: "What is the employee's name?",
     when: ({ isEmpNeeded }) => isEmpNeeded
   },
@@ -37,7 +37,7 @@ const questions = [
   },
   {
     type: 'input',
-    name: 'internSchool',
+    name: 'school',
     message: 'What school does the intern attend?',
     when: ({ role }) => role == 'Intern'
   },
@@ -46,7 +46,7 @@ const questions = [
     name: 'officeNumber',
     message: 'What is the office number?',
     when: ({ role }) => role == 'Manager'
-  }
+  }  
 ];
 
 export default questions;

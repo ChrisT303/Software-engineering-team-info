@@ -1,0 +1,25 @@
+nav {
+    background: #ed3e06;
+    padding: 5px;
+    text-align: center;
+}
+
+.row {
+    display: flex;
+    justify-content: space-around;
+}
+
+.card {
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 8px;
+    margin: 10px;
+    background: #faf4f4;
+}
+
+.card-header {
+    background: blue;
+    margin: 0;
+    padding: 10px;
+    color: white;
+}
