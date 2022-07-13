@@ -1,7 +1,7 @@
 import Employee from "../lib/Employee.js";
 
 
-const name="John", id=1, email='test@test.com', office=1 ;
+const name="John", id=1, email='test@test.com' ;
 const e = new Employee(name,id,email);
 const type = Employee;
 

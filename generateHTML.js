@@ -37,7 +37,7 @@ const htmlGen = ({Managers,Engineers,Interns}) => {
             `
         });
 
-        output += `</div><h1>Mangers</h1><hr>`
+        output += `</div><h1>Managers</h1><hr>`
     };
 
 
