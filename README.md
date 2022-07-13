@@ -28,4 +28,7 @@ Contact me by clicking the below links:
 * [Github Link](https://github.com/deftonechris)
 * [Email Link](mailto:deftonechris@msn.com)
 
-"C:\Users\defto\Downloads\employee generator video.mp4"
+
+
+https://user-images.githubusercontent.com/103149149/178832974-eb3679ad-a7d6-4e4f-b7b3-918107e03bb4.mp4
+
